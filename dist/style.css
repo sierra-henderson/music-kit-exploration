@@ -1,0 +1,23 @@
+* {
+  font-family: Heebo;
+  margin: 0;
+}
+
+.album-info {
+  display: flex;
+}
+
+.album-text {
+  margin-left: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+i {
+  margin-right: 1rem;
+}
+
+li {
+  list-style: none;
+}
